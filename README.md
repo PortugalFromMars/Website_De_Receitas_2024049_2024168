@@ -4,9 +4,8 @@ Guilherme Silva
 Como Correr o website
 
 Lança o Visual Studio Code
-Abre um novo terminal e poe
+Abre um novo terminal e coloca "npm run web"
 
-""
-npm run web
 
-""
+
+
